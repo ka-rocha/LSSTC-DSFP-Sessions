@@ -38,7 +38,7 @@ Tuesday, Oct 05, 2021
 Wednesday, Oct 06, 2021
 
  * LECTURE III  o  [Introduction to the Lomb-Scargle Periodogram](Day3/IntroductionToTheLombScarglePeriodogram.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)  — [Solutions](Day3/IntroductionToTheLombScarglePeriodogramSolutions.ipynb)
- * NOTEBOOK III  o  [Real World Considerations for the Lomb-Scargle Periodogram](Day3/RealWorldLombScargle.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
+ * NOTEBOOK III  o  [Real World Considerations for the Lomb-Scargle Periodogram](Day3/RealWorldLombScargle.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) – [Solutions](Day3/RealWorldLombScargleSolutions.ipynb)
 
 
 ## [Day 4](Day4) — Wait! We Are Still Looking for Periods
@@ -46,11 +46,11 @@ Wednesday, Oct 06, 2021
 Thursday, Oct 07, 2021
 
  * LECTURE IV  o  [Non-parameteric Measures of Periodicity](Day4/NonparametricMeasuresOfPeriodicity.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) — [Solutions](Day4/NonparametricMeasuresOfPeriodicitySolutions.ipynb)
- * PROBLEM IV  o [Conditional Entropy](Day4/ConditionalEntropy.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
+ * PROBLEM IV  o [Conditional Entropy](Day4/ConditionalEntropy.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) – [Solutions](Day4/NonparametricMeasuresOfPeriodicitySolutions.ipynb)
 
 ## [Day 5](Day5) — The Match Game
 
 Friday, Oct 08, 2021
 
  * LECTURE V  o  [Signal Processing and Matched Filtering](Day5/SignalProcessingAndMatchedFiltering.pdf); M. Fishbach [:octocat:](https://github.com/mfishbach)
- * NOTEBOOK V  o  [Searching for Gravitational Wave Signals](Day5/MatchedFilteringTutorial.ipynb); M. Fishbach [:octocat:](https://github.com/mfishbach)
+ * NOTEBOOK V  o  [Searching for Gravitational Wave Signals](Day5/MatchedFilteringTutorial.ipynb); M. Fishbach [:octocat:](https://github.com/mfishbach) — [Solutions](Day5/MatchedFilteringTutorialSolutions.ipynb)
